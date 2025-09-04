@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Hoang Nguyen Huu Loc, MSSV 210009.
+Day la README da duoc sua
