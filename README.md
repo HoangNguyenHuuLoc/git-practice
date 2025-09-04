@@ -1,1 +1,2 @@
-Day la README da duoc sua
+Đây là README được chỉnh sửa từ nhánh
+conflict-demo.
