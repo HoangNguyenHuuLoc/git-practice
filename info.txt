@@ -1,2 +1,6 @@
 So thich: choi game
+<<<<<<< HEAD
 Ky nang:coding
+=======
+Ky Nang: coding
+>>>>>>> add-info
